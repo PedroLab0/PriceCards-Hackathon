@@ -1,4 +1,4 @@
-# PriceCards-Hackathon
+# ModularCards-Hackathon
 
 **Description**
 
